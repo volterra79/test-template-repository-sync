@@ -1,3 +1,5 @@
+additional:
+- "test-template-child-repository-sync"
 files:
   - ".gitignore"  # include
   - "!README.md" # exclude
