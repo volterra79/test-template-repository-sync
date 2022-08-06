@@ -1,5 +1,5 @@
 additional:
-- "test-template-child-repository-sync"
+- "volterra79/test-template-child-repository-sync"
 files:
   - ".gitignore"  # include
   - "test_sync_file.txt" #include
